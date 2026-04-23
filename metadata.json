@@ -1,0 +1,12 @@
+{
+  "name": "Weather AI",
+  "description": "A refined AI weather station with Apple-inspired glass design and satellite-precision NWS forecasts, featuring an adaptive background that mirrors current conditions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Weather Forecasting",
+    "AI Chatbot",
+    "Real-time Data"
+  ]
+}
